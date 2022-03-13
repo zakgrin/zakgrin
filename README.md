@@ -1,4 +1,4 @@
-[LinkedIn Profile](https://www.linkedin.com/in/zakariya-abugrin-45306987/)
+Follow me on: [LinkedIn](https://www.linkedin.com/in/zakariya-abugrin-45306987/)
 
 > Hi there 👋, I’m currently working on [Open Reservoir Simulation Library in Python](https://github.com/zakgrin/openresim).
 
