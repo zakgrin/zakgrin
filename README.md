@@ -1,10 +1,10 @@
-(LinkedIn Profile)[https://www.linkedin.com/in/zakariya-abugrin-45306987/]
+[LinkedIn Profile](https://www.linkedin.com/in/zakariya-abugrin-45306987/)
 
-## Hi there 👋, I’m currently working on (Open Reservoir Simulation Library in Python)[https://github.com/zakgrin/openresim].
+> Hi there 👋, I’m currently working on [Open Reservoir Simulation Library in Python](https://github.com/zakgrin/openresim).
 
 ## About Me
 
-I am a master of data science graduate from Frankfurt School. Currently, I am working as a Data Scientist and Data Engineer at (Schaeffler)[https://www.linkedin.com/company/schaeffler/mycompany/verification/].
+I am a master of data science graduate from Frankfurt School. Currently, I am working as a Data Scientist and Data Engineer at [Schaeffler](https://www.linkedin.com/company/schaeffler/mycompany/verification/).
 
 I have more than 3 years of experience working on data science projects mainly related to sales, simulation, and people analytics. One of my projects was to built reliable real-time intelligent dashboards using SQL, Python, and MS Power BI to achieve better business strategies.
 
