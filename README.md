@@ -8,7 +8,7 @@ I am a master of data science graduate from [Frankfurt School](https://www.frank
 
 I have more than 3 years of experience working on data science projects mainly related to sales, simulation, and people analytics. One of my projects was to built reliable real-time intelligent dashboards using SQL, Python, and MS Power BI to achieve better business strategies.
 
-Before studying data science, I worked as a simulation engineer and did a master's degree in petroleum reservoir engineering and business management at [TU Clausthal](https://www.tu-clausthal.de/). Scientific computing and engineering are both essential parts of my background. Adding data science to my background has helped me to be a proficient scientist/engineer who can test and prove scientific knowledge by coding. 
+Before studying data science, I worked as a simulation engineer and did a master's degree in petroleum reservoir engineering and business management at [TU Clausthal](https://www.tu-clausthal.de/). I also did my bachelor degree in petoleum engineering at [University of Tripoli](https://uot.edu.ly/index.php?lang=en). Scientific computing and engineering are both essential parts of my background. Adding data science to my background has helped me to be a proficient scientist/engineer who can test and prove scientific knowledge by coding. 
 
 I am very interested in developing scalable AI systems that can benefit others. My master thesis is a great example of my efforts where I built a face recognition system that can be used to secure gatherings and crowds in compliance with GDPR. 
 
