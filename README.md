@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a master of data science graduate from Frankfurt School. Currently, I am working as a Data Scientist and Data Engineer at [Schaeffler](https://www.linkedin.com/company/schaeffler/mycompany/verification/).
+I am a master of data science graduate from [Frankfurt School](https://www.frankfurt-school.de/home). Currently, I am working as a Data Scientist and Data Engineer at [Schaeffler](https://www.linkedin.com/company/schaeffler/mycompany/verification/).
 
 I have more than 3 years of experience working on data science projects mainly related to sales, simulation, and people analytics. One of my projects was to built reliable real-time intelligent dashboards using SQL, Python, and MS Power BI to achieve better business strategies.
 
