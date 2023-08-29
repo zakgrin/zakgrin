@@ -1,6 +1,6 @@
-📫 Follow me on: [LinkedIn](https://www.linkedin.com/in/zakariya-abugrin-45306987/)
+📫 Follow me on: [LinkedIn](https://www.linkedin.com/in/zakariya-abugrin/)
 
-> Hi there 👋, I’m currently working on [Open Reservoir Simulation Library in Python](https://github.com/zakgrin/openresim).
+> Hi there 👋, I’m currently working on [ReservoirFlow: a Petroleum Reservoir Simulation Library in Python](https://github.com/zakgrin/reservoirflow).
 
 ## About Me
 
